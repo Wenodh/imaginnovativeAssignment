@@ -1,0 +1,16 @@
+.table,
+.tablehead,
+.tabledata {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.date {
+  background-color: orangered;
+}
+.subCatogory {
+  background-color: lightslategray;
+}
+.tabledata {
+  width: 100px;
+  text-align: center;
+}
